@@ -1,0 +1,16 @@
+.login-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h2{
+        font-size: 1.5em;
+    }
+    .item{
+        margin-bottom: 5px;
+    }
+    button{
+        width: 100%;
+    }
+
+}
+
